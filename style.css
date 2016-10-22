@@ -1,0 +1,29 @@
+.blackrec {
+background-color: black;
+padding: 5px 10px 5px 10px;
+height: 100px;    
+color: white;
+}
+
+.logo {
+background-color: blue;
+float: left;
+height: 100px;    
+width: 100px;
+color: white;
+}
+
+nav {
+
+
+}
+
+.side {
+    display: block;
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 2px;
+}
+}
